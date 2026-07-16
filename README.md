@@ -78,3 +78,8 @@ Por ejemplo, para procesar el dataset `epsilon` utilizando 8 hebras:
 - `histogram.hpp` y `histogram.cpp`: contienen la definición y la implementación de los métodos de la clase `Histogram`.
 - `constructhist.cpp`: contiene las funciones relacionadas con la construcción y combinación de los histogramas.
 - `gainandimpurity.cpp`: contiene las funciones relacionadas con la construcción del árbol, el cálculo de la impureza y la selección del mejor punto de división.
+
+
+## Declaración de uso de IA generativa
+
+Durante el desarrollo de este proyecto se utilizaron herramientas de IA generativa como apoyo para comprender la estructura del sistema y orientar el diseño de la implementación. También se emplearon para resolver dudas conceptuales y de programación, revisar fragmentos de código y mejorar la documentación. Todas las sugerencias fueron analizadas, adaptadas y validadas por los autores.
